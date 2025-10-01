@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeann\\Documents\\cCHARP\\CadastroPessoa\\CadastroPessoa\\CadastroPessoa.csproj": {}
+    "/home/jean/RiderProjects/C-/CadastroPessoa/CadastroPessoa/CadastroPessoa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeann\\Documents\\cCHARP\\CadastroPessoa\\CadastroPessoa\\CadastroPessoa.csproj": {
+    "/home/jean/RiderProjects/C-/CadastroPessoa/CadastroPessoa/CadastroPessoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeann\\Documents\\cCHARP\\CadastroPessoa\\CadastroPessoa\\CadastroPessoa.csproj",
+        "projectUniqueName": "/home/jean/RiderProjects/C-/CadastroPessoa/CadastroPessoa/CadastroPessoa.csproj",
         "projectName": "CadastroPessoa",
-        "projectPath": "C:\\Users\\Jeann\\Documents\\cCHARP\\CadastroPessoa\\CadastroPessoa\\CadastroPessoa.csproj",
-        "packagesPath": "C:\\Users\\Jeann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeann\\Documents\\cCHARP\\CadastroPessoa\\CadastroPessoa\\obj\\",
+        "projectPath": "/home/jean/RiderProjects/C-/CadastroPessoa/CadastroPessoa/CadastroPessoa.csproj",
+        "packagesPath": "/home/jean/.nuget/packages/",
+        "outputPath": "/home/jean/RiderProjects/C-/CadastroPessoa/CadastroPessoa/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jeann\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/jean/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/jean/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
